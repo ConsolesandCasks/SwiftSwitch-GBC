@@ -40,5 +40,6 @@ Solder all of the components to the flex, then solder flex to the PCB
 Lower part of the flex will overlap a few resistors on the Game Boy Color PCB
 
 _The power switch cover will need to be modified_ - my personal way to do this is to cut the detent portion of the switch cover to allow free-sliding, and then glue a portion of that cut piece (or another flat piece of plastic) to the top of the tab fingers on the switch cover - this is to prevent the switch wiper tab from slipping over the tab fingers due to its higher vertical position on the PCB compared to the stock switch wiper
-(PHOTO)
+
+![](swiftswitch_cover_a.jpg)![](swiftswitch_cover_b.jpg)
 
