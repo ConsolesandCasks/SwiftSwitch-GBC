@@ -33,7 +33,7 @@ This will only work on a Game Boy Color. I may route a version that works on Gam
 
 ## Building
 
-Order as a flex from [OSHpark here](https://oshpark.com/shared_projects/fACfgUZk)
+Order as a flex from [OSHpark here](https://oshpark.com/shared_projects/fACfgUZk) - UNAVAILABLE AT THIS TIME - submit gerbers through PCBWAY or JCBPCB and order as flex PCB using attached ZIP
 
 Solder all of the components to the flex, then solder flex to the PCB
 
